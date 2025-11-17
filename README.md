@@ -50,8 +50,8 @@ My goal is simple: **make things work fast, look great, and run automatically.**
 
 ### 📊 GitHub Stats
 
-![Tatsuki's GitHub stats](https://github-readme-stats.vercel.app/api?username=iLtanaka&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iLtanaka&layout=compact&theme=dracula)
+![Tatsuki's GitHub stats](https://grs.yakovsava.dev/?username=iLtanaka&show_icons=true&theme=nord)
+![Top Langs](https://grs.yakovsava.dev/top-langs/?username=iLtanaka&layout=compact&theme=nord)
 
 ---
 
