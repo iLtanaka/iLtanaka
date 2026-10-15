@@ -1,7 +1,7 @@
 ### Hi there, I'm Tatsuki! (田中 竜樹) 👋
 
 **Frontend Team Lead & DevOps Engineer | Linux & Kernel Enthusiast**  
-📍 Osaka, Japan / Remote • 🌐 [tanakatatsuki.dev](https://tanakatatsuki.dev) • 💬 日本語 / English / Русский
+📍 Osaka, Japan / Remote • 🌐 [tanakatatsuki.dev](https://tanakatatsuki.dev) • 💬 日本語 / English 
 
 ```
 voidlinux:~$ whoami
