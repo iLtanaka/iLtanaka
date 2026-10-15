@@ -3,56 +3,69 @@
 **Frontend Team Lead & DevOps Engineer | Linux & Kernel Enthusiast**  
 📍 Osaka, Japan / Remote • 🌐 [tanakatatsuki.dev](https://tanakatatsuki.dev) • 💬 日本語 / English / Русский
 
-I bridge the gap between **high-performance frontend interfaces**, **robust infrastructure**, and **deep Linux internals**. Whether building modern web applications, orchestrating automated CI/CD pipelines, or bringing mainline Linux to mobile platforms, my focus is on reliability, speed, and elegance.
+```
+voidlinux:~$ whoami
+tatsuki — bridge between high-performance frontend interfaces, robust infrastructure, and deep Linux internals.
+```
 
 ---
 
 ### 🚀 What I Do
 
-- 💼 **Frontend Lead & Co-Founder** at **MYI Technologies** — architecting **MYI Chronos Aura** (SaaS time-tracking & invoicing), establishing design systems, and managing frontend infrastructure.
-- 🐧 **Mainline Linux & Kernel Bring-up** — sole developer and maintainer of the **postmarketOS mainline Linux port** for the Xiaomi POCO F5 / Redmi Note 12 Turbo (`marble`), featuring custom U-Boot, Iris VPU hardware video acceleration, and reverse-engineered PMIC protocols.
-- 🦀 **Currently exploring:** Rust for system software development (building a custom Wayland compositor) and embedded Linux architectures.
-- ⚡ **Philosophy:** Automate every repetitive task, write predictable code, and maintain clean, resilient systems.
+- 💼 **Frontend Lead & Co-Founder** at **MYI Technologies**
+  Architecting **MYI Chronos Aura** (SaaS time-tracking & invoicing), leading frontend development, and automating cloud infrastructure & CI/CD.
+- 🐧 **Mainline Linux & Kernel Bring-up**
+  Sole developer and maintainer of the **postmarketOS mainline Linux port** for Xiaomi POCO F5 / Redmi Note 12 Turbo (`marble`):
+  - Custom U-Boot bootloader integration & dual-boot architecture
+  - Qualcomm Iris VPU hardware video encode/decode (HEVC/H.264 up to 4K@120fps)
+  - Sunshine zero-copy game streaming pipeline over V4L2 M2M
+  - Xiaomi PMIC-GLINK protocol reverse-engineering for full-speed fast charging (~23W)
+- 🦀 **Systems & Embedded**
+  Actively building in **Rust** (custom Wayland compositor targeting mobile Linux) and deep diving into AArch64 device trees, power regulators, and interconnects.
+- ⚡ **Philosophy**
+  Zero manual routine. Clean code, predictable builds, reproducible deployments, and resilient servers.
 
 ---
 
-### 🛠️ Tech Stack & Skills
+### 🛠️ Tech Stack
 
 #### Languages & Core
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
-![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=flat&logo=rust&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
-![Bash](https://img.shields.io/badge/gnu%20bash-%234EAA25.svg?style=flat&logo=gnu-bash&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)
 
 #### Frontend & UI
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white)
-![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=flat&logo=vuedotjs&logoColor=%234FC08D)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
 
-#### Infrastructure, DevOps & Systems
+#### Systems, DevOps & Infrastructure
 ![Void Linux](https://img.shields.io/badge/Void_Linux-478061?style=flat&logo=voidlinux&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat&logo=githubactions&logoColor=white)
-![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat&logo=nginx&logoColor=white)
-![WireGuard](https://img.shields.io/badge/wireguard-%2388171A.svg?style=flat&logo=wireguard&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux_Kernel-FCC624?style=flat&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
+![WireGuard](https://img.shields.io/badge/WireGuard-88171A?style=flat&logo=wireguard&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=Prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=flat&logo=grafana&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
 
 ---
 
 ### 📊 GitHub Stats
 
-![Tatsuki's GitHub stats](https://grs.yakovsava.dev/?username=iLtanaka&show_icons=true&theme=nord)
-![Top Langs](https://grs.yakovsava.dev/top-langs/?username=iLtanaka&layout=compact&theme=nord)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=iLtanaka&show_icons=true&theme=nord&hide_border=true&count_private=true" alt="Tatsuki's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iLtanaka&layout=compact&theme=nord&hide_border=true" alt="Top Languages" />
+</p>
 
 ---
 
 ### 📫 Get in Touch
 
-- 🌐 **Website:** [tanakatatsuki.dev](https://tanakatatsuki.dev)
+- 🌐 **Website & Blog:** [tanakatatsuki.dev](https://tanakatatsuki.dev)
 - ✉️ **Email:** [tatsuki@tanakatatsuki.dev](mailto:tatsuki@tanakatatsuki.dev)
 - 🐙 **GitHub:** [@iLtanaka](https://github.com/iLtanaka)
