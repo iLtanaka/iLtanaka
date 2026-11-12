@@ -26,6 +26,35 @@ Frontend Lead & Systems Engineer based in Osaka, Japan.
 
 ---
 
+### Stats
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iLtanaka&theme=github_dark">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iLtanaka&theme=github" alt="iLtanaka — contribution overview" width="700">
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=iLtanaka&theme=github-dark-blue&hide_border=true">
+    <img src="https://streak-stats.demolab.com?user=iLtanaka&theme=github-light&hide_border=true" alt="iLtanaka — contribution streak" width="495">
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=iLtanaka&theme=github_dark">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=iLtanaka&theme=github" alt="iLtanaka — GitHub stats" width="340">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=iLtanaka&theme=github_dark">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=iLtanaka&theme=github" alt="iLtanaka — top languages by commit" width="340">
+  </picture>
+</p>
+
+---
+
 ### Contact
 
 - Website: [tanakatatsuki.dev](https://tanakatatsuki.dev)
